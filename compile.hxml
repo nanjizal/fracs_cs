@@ -1,0 +1,2 @@
+--cmd csc hello.cs
+--cmd mono hello.exe
